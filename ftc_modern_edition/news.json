@@ -5,10 +5,14 @@
     "published": "2026/04/07",
     "height": 5,
     "content": [
-      "t|Hello World!",
-      "t|This is a test!",
+      "t|Hello there!",
+      "t|I want to show to you a brand new way of communication from us: News!",
       "i|78927765153490",
-      "t|Continue my sheet"
+      "t|News System was started all the way back to January, but was not working correctly.",
+      "t|But now it works, and that's why we published it now.",
+      "t| ",
+      "t|This update doesn't only add this.",
+      "t|Along with this \"News update\", I also patched some issues in and there."
     ]
   }
 ]
