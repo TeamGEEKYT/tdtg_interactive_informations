@@ -1,25 +1,14 @@
 [
   {
-    "name": "test",
+    "name": "UPDATE: v1.1.04",
     "icon": 0,
-    "published": "2026/01/18",
+    "published": "2026/04/07",
     "height": 5,
     "content": [
       "t|Hello World!",
       "t|This is a test!",
       "i|78927765153490",
       "t|Continue my sheet"
-    ]
-  },
-  {
-    "name": "test again",
-    "icon": 78927765153490,
-    "published": "2026/01/18",
-    "height": 2,
-    "content": [
-      "t|Hello World!",
-      "t|This is another test!",
-      "i|78927765153490"
     ]
   }
 ]
