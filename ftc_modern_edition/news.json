@@ -10,8 +10,15 @@
       "i|78927765153490",
       "t|News System was started all the way back to January, but was not working correctly.",
       "t|But now it works, and that's why we published it now.",
-      "t| ",
+      "s|",
       "t|This update doesn't only add this.",
+      "t|Because this update also adds something not every games really think about:",
+      "t|COLORBLIND-FRIENDLY",
+      "t|Sometimes, the text that appears as a Server Message appears in situations where text can't be correctly read by colorblind players.",
+      "i|74387704215086",
+      "t|This update adds a transparent background of this text, allowing blindfolded (and regular) players to see it properly.",
+      "i|120065967656386",
+      "s|",
       "t|Along with this \"News update\", I also patched some issues in and there."
     ]
   }
