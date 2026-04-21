@@ -1,5 +1,40 @@
 [
   {
+    "name": "UPDATE: v1.1.06",
+    "icon": 90243173492940,
+    "published": "2026/04/21",
+    "height": 5,
+    "content": {
+      "en":[
+        "t|Goodbye, Halloween Map! Welcome back, Normal Map!",
+        "i|90243173492940",
+        "s|",
+        "t|Update v1.1.06 did not bring that much things.",
+        "t|Actually, I have patched a major TP issue.",
+        "t|But yeah, besides that, there's not too much more to say.",
+        "t|See you on v1.1.061/v1.1.07 I guess?"
+      ],
+      "fr": [
+        "t|Au revoir, map d'Halloween! Bon retour, Map Normale!",
+        "i|90243173492940",
+        "s|",
+        "t|La mise à jour v1.1.06 n'a pas ramené si tant de choses que ça.",
+        "t|En fait, j'ai réglé un problème de téléportation majeur.",
+        "t|Mais ouais, mis à part ça, il n'y a pas grand chose.",
+        "t|On se voit en v1.1.061/v1.1.07 je suppose?"
+      ],
+      "jp": [
+        "t|さようなら、ハロウィンマップ！おかえり、ノーマルマップ！",
+        "i|90243173492940",
+        "s|",
+        "t|アップデートv1.1.06では、それほど多くの変更はありませんでした。",
+        "t|実は、重大なテレポートの不具合を修正しました。",
+        "t|まあ、それ以外に特にお伝えすることはありません。",
+        "t|v1.1.061/v1.1.07でお会いしましょう！"
+      ]
+    }
+  },
+  {
     "name": "UPDATE: v1.1.05",
     "icon": 116570782969992,
     "published": "2026/04/14",
