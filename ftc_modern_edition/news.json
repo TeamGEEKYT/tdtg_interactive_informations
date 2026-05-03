@@ -1,5 +1,43 @@
 [
   {
+    "name": "[EN] BUGFIX UPDATES (1.1.061 to 1.1.064)",
+    "icon": 85435038794770,
+    "published": "2026/05/03",
+    "height": 5,
+    "content": {
+      "en":[
+        "t|Hey there!",
+        "i|85435038794770",
+        "s|",
+        "t|This little new page will present to you minor updates",
+        "t|from Version 1.1.061 to the current version.",
+        "t|Let's directly jump into the subject!",
+        "s|",
+        "title|Version 1.1.061",
+        "t|Fixed Glitched Obby Teleportation not working since v1.1.06",
+        "s|",
+        "title|Version 1.1.062",
+        "t|\"Loading\" dots system changed (from loading screen)",
+        "t|Fixed skip loading button before the button is visible",
+        "t|Fixed Music Shop (Grab&Go) outside of Shop since v1.1.06",
+        "t|Fixed Secret Impossible Obby being impossible since v1.1.06",
+        "s|",
+        "title|Version 1.1.063",
+        "t|Changed Display Name system",
+        "i|70724747138933",
+        "s|",
+        "title|Version 1.1.064",
+        "t|Changed the way the amount of collected money works",
+        "t|Fixed Found Car GUI that could sometimes show the check image instead of the car",
+        "s|",
+        "title|End of news",
+        "t|When more minor updates are coming out,",
+        "t|this News Page will be updated!",
+        "t|See you all later!"
+      ]
+    }
+  },
+  {
     "name": "UPDATE: v1.1.06",
     "icon": 90243173492940,
     "published": "2026/04/21",
