@@ -1,6 +1,6 @@
 [
   {
-    "name": "[EN] BUGFIX UPDATES (1.1.061 to 1.1.064)",
+    "name": "[EN] BUGFIX UPDATES (1.1.061 to 1.1.065)",
     "icon": 85435038794770,
     "published": "2026/05/03",
     "height": 5,
@@ -29,6 +29,14 @@
         "title|Version 1.1.064",
         "t|Changed the way the amount of collected money works",
         "t|Fixed Found Car GUI that could sometimes show the check image instead of the car",
+        "s|",
+        "title|Version 1.1.065",
+        "t|Fixed \"global\" messages since v1.1.04",
+        "t|Fixed over-GUIs bug using Inventory",
+        "i|139645043202163",
+        "t|Fixed blur in ???",
+        "t|Fixed Keybinds GUI working in ??? since 1.1.06",
+        "t|Fixed Run System Enabled In ??? Since 1.1.06",
         "s|",
         "title|End of news",
         "t|When more minor updates are coming out,",
