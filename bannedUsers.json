@@ -1,1 +1,7 @@
-[]
+[
+  TeamGEEKYT: {
+    Reason: "Test",
+    UnbanPeriod = 1778748607,
+    Perma = false
+  }
+]
